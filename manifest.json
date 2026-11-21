@@ -38,38 +38,40 @@
     {
       "kind": "board",
       "id": "board_online_forge",
-      "cn": "在线·熔炉",
-      "en": "Online Forge",
-      "desc_cn": "从资源服务器下载的棋盘皮肤。",
-      "desc_en": "A downloaded board skin.",
-      "file": "skins/board_online_forge.png"
+      "cn": "熔炉 · 重制",
+      "en": "Forge Remaster",
+      "desc_cn": "重制版棋盘皮肤。",
+      "desc_en": "A remastered board skin.",
+      "file": "skins/board_online_forge.png",
+      "series_cn": "扩展"
     },
     {
       "kind": "title",
       "id": "title_online_ember",
-      "cn": "在线·烬火",
-      "en": "Online Ember",
-      "desc_cn": "从资源服务器下载的首页皮肤。",
-      "desc_en": "A downloaded title skin.",
-      "file": "skins/title_online_ember.png"
+      "cn": "烬火 · 重制",
+      "en": "Ember Remaster",
+      "desc_cn": "重制版首页皮肤。",
+      "desc_en": "A remastered title skin.",
+      "file": "skins/title_online_ember.png",
+      "series_cn": "扩展"
     },
     {
       "kind": "card",
       "id": "card_online",
-      "cn": "在线卡面",
-      "en": "Online Cards",
-      "desc_cn": "四张卡面：ember / frost / volt / void。",
-      "desc_en": "Four card faces.",
-      "dir": "skins/cards/card_online"
+      "cn": "绘卷卡面",
+      "en": "Painted Cards",
+      "desc_cn": "四张重绘卡面。",
+      "desc_en": "Four painted card faces.",
+      "dir": "skins/cards/card_online",
+      "series_cn": "扩展"
     }
   ],
   "app": {
-    "version": "5.6.13",
-    "code": 90,
-    "file": "glyphfall-v5.6.13.apk",
-    "url": "https://ghfast.top/https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.13/glyphfall-v5.6.13.apk",
-    "sha256": "24f74fda9ad2afb724d46c80354c610c43d9020515021a46b5fc7da9df33880f",
-    "size": 49018476,
-    "url_alt": "https://ghproxy.net/https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.13/glyphfall-v5.6.13.apk"
+    "version": "5.6.14",
+    "code": 91,
+    "file": "glyphfall-v5.6.14.apk",
+    "url": "https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.14/glyphfall-v5.6.14.apk",
+    "sha256": "9fcf5d1484dbde68a8ef38eb11a2301aa60c27d62e7aa2a45f1332de80e07c8a",
+    "size": 49018476
   }
 }
