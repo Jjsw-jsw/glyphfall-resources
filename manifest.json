@@ -67,12 +67,11 @@
     }
   ],
   "app": {
-    "version": "5.6.18",
-    "code": 95,
-    "file": "glyphfall-v5.6.18.apk",
-    "url": "https://ghfast.top/https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.18/glyphfall-v5.6.18.apk",
-    "sha256": "e3d97afafec48ee29a6de46bcf0295af0d54f0ae142f8132f6d85136caa47820",
-    "size": 49018476,
-    "url_alt": "https://ghproxy.net/https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.18/glyphfall-v5.6.18.apk"
+    "version": "5.6.19",
+    "code": 96,
+    "file": "glyphfall-v5.6.19.apk",
+    "url": "https://github.com/Jjsw-jsw/glyphfall-resources/releases/download/v5.6.19/glyphfall-v5.6.19.apk",
+    "sha256": "d8235ac11a0e6f90e9e286459e3f847fa52fc9d4673788b5dbbfede56161e4c1",
+    "size": 49018476
   }
 }
